@@ -1,59 +1,54 @@
 <div align="center">
+  <h1>Francisco Castellanos 👨‍💻</h1>
+  <h3>Full Stack Developer | IT Support Specialist</h3>
+</div>
 
-  # Hi there, I'm Francisco! 👋
-  
-  ### Software Engineering Technician | Full Stack Developer | IT Support Specialist
-  
-  <br/>
+<br/>
 
-  I am a Junior Developer with a unique background: I don't just write code; I understand the hardware and operating systems it runs on. I specialize in building robust solutions with **React**, **Node.js**, and **Windows Ecosystems**.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>👋 System Online...</h2>
+      <br/>
+      I am a <b>Software Engineering Technician</b> based in <b>El Salvador 🇸🇻</b>.
+      <br/><br/>
+      My coding philosophy is simple: <i>"Build it to work, maintain it to last."</i> I combine standard software development with deep knowledge of <b>Windows Ecosystems</b>, <b>Server Management</b>, and <b>Hardware Support</b>.
+      <br/><br/>
+      <b>🚀 Current Focus:</b>
+      <ul>
+        <li>Building robust Backends with <b>Node.js & C#</b></li>
+        <li>Deploying persistent apps on Windows (PM2/Services)</li>
+        <li>Hosting & managing private game servers</li>
+      </ul>
+      <br/>
+      <a href="https://www.linkedin.com/in/francisco-castellanos/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="mailto:tu-email@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td width="40%" valign="top">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=rsFrancoo&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true&locale=en" width="100%" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsFrancoo&layout=compact&theme=midnight-owl&hide_border=true&lang_count=6" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-  <br/>
+<br/>
 
-  ---
-
-  ## 🚀 Main Tech Stack
-
+<h3>🛠️ The Engine Room (Tech Stack)</h3>
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,html,css,nodejs,cs,java,postgres,mssql,git,powershell,vscode,postman&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,ts,html,css,nodejs,cs,java,postgres,mssql,git,powershell,vscode,postman&theme=dark" alt="My Tech Stack" />
   </a>
-
-  <br/>
-  <br/>
-
 </div>
 
-## 👨‍💻 About Me
-
-I'm passionate about creating software that solves real-world infrastructure problems. My experience ranges from developing web applications to managing servers.
-
-### 🔭 What I'm working on & learning:
-* **Full Stack Development:** Building responsive web apps using **React** and **TypeScript**, backed by **Node.js** or **C#**.
-* **System Integration:** I have experience deploying efficient systems (like Asset Management tools) on **Windows** environments, using process managers like **PM2** to ensure reliability.
-* **Server Administration:** I enjoy the technical challenge of hosting and maintaining private game servers, managing ports, and troubleshooting network protocols.
-
-### ⚡ My "Secret Weapon"
-Unlike many developers, I have strong **IT Support & Hardware** skills. I can fix the code *and* the computer it runs on.
-
----
-
-<div align="center">
-
-  ## 📊 GitHub Stats
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rsFrancoo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&locale=en" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsFrancoo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&lang_count=6" height="150" alt="languages" />
-
-  <br/>
-  <br/>
-
-  ### 📫 Let's Connect!
-
-  <a href="https://www.linkedin.com/in/francisco-castellanos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-
-</div>
+<br/>
+<hr/>
+<p align="center">
+  <i>"I can fix the code and the machine it runs on."</i> 🔧
+</p>
