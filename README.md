@@ -1,58 +1,63 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Francisco+Castellanos;I+Build+Backend+Systems;I+Manage+Windows+Servers;I+Solve+Hardware+Issues" alt="Typing SVG" />
-  </a>
-</div>
 
-<div align="center">
-  <i>Converting caffeine into code & troubleshooting Windows logs. ☕🐛</i>
-</div>
+  # Hi there, I'm Francisco! 👋
 
-<br/>
+  ### Software Engineering Technician | Full Stack Developer
 
-> **Status:** 🟢 Online & Open to Work in **El Salvador 🇸🇻**
->
-> I am a **Software Engineering Technician** with a hybrid profile. I bridge the gap between **Software Development** and **IT Operations**. I don't just write the app; I configure the server, set up the environment, and ensure it runs 24/7 using tools like PM2 and PowerShell.
+  *Based in El Salvador 🇸🇻*
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header&text=The%20Tech%20Arsenal&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-</div>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,html,css,nodejs,cs,java,postgres,mssql,git,powershell,vscode,postman&theme=dark&perline=13" />
-  </a>
-</div>
-
-<br/>
-<br/>
-
-### ⚡ What I actually do?
-
-* **Backend & Architecture:** I build scalable APIs using **Node.js** and **C#**, integrating them with robust databases like **PostgreSQL** and **SQL Server**.
-* **Windows Mastery:** My specialty. I manage deployments on Windows environments, handle **Active Directory** concepts, and automate tasks with **PowerShell**.
-* **The "SysAdmin" Side:** From hosting private **Project Zomboid** servers to fixing hardware bottlenecks. If it has a circuit board, I can probably fix it.
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header&text=GitHub%20Analytics&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-  
   <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=rsFrancoo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsFrancoo&layout=compact&theme=radical&hide_border=true&lang_count=6" height="150" />
+
+  I am a Junior Developer focused on **Backend logic**, **Windows Environments**, and **Hardware Support**. <br/>
+  I enjoy building systems that are efficient and easy to maintain.
+
+  <br/>
+
+  ---
+
+  ## 🚀 Tech Stack & Tools
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,html,css,nodejs,cs,java,postgres,mssql,git,powershell,vscode,postman&theme=dark" alt="My Skills" />
+  </a>
+
+  <br/>
+  <br/>
+
 </div>
 
-<br/>
+## 👨‍💻 About Me
+
+I'm currently looking for my first professional opportunity as a developer. I bring a hybrid set of skills: I can develop the software and troubleshoot the hardware it runs on.
+
+**🔭 My Technical Focus:**
+* **Backend Development:** Creating robust APIs with **Node.js** and **C#**.
+* **Database Management:** Designing structured data solutions using **PostgreSQL** and **SQL Server**.
+* **IT Operations:** Experience with **Windows Server**, process management (PM2), and hardware maintenance.
+
+**⚡ Recent Highlights:**
+* Developed a **Fixed Assets Management System** implementing Node.js background services on Windows.
+* Experience hosting and configuring private game servers (Project Zomboid), managing ports and network configurations.
+
+---
 
 <div align="center">
+
+  ## 📊 GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rsFrancoo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&locale=en" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsFrancoo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&lang_count=6" height="150" alt="languages" />
+
+  <br/>
+  <br/>
+
+  ### 📫 Let's Connect
+
   <a href="https://www.linkedin.com/in/francisco-castellanos/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Francisco_Castellanos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+
 </div>
