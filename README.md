@@ -14,7 +14,7 @@
   <h3>🚀 My Tech Stack</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,ts,php,py,cs,react,vue,nodejs,laravel,bootstrap,tailwind,postgres,git,vscode,discord&theme=dark" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=javascript,ts,php,py,react,vue,nodejs,laravel,bootstrap,tailwind,postgres,git,vscode,discord&theme=dark" alt="My Tech Stack" />
   </a>
 
   <br/>
