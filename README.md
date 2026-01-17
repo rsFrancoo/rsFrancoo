@@ -1,10 +1,8 @@
 <div align="center">
 
-  ## Hi there! I'm Francisco 👋
+  # Hi there! I'm Francisco 👋
 
-  ### 💻 Software Engineering Technician
-
-  *Based in El Salvador 🇸🇻*
+  ### 💻 Software Engineering Technician | Full Stack Developer
 
   <br/>
 
